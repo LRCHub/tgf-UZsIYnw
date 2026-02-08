@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "愛のままを",
+  "base_artist": "カネコアヤノ",
+  "createdAt": "2026-02-08T15:18:44.900890Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛のままを",
+      "artist": "Ayano Kaneko",
+      "has_synced": true,
+      "path": "select/01_愛のままを_Ayano_Kaneko.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛のままを",
+      "artist": "Kaneko Ayano",
+      "has_synced": true,
+      "path": "select/02_愛のままを_Kaneko_Ayano.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛のままを",
+      "artist": "Ayano Kaneko",
+      "has_synced": true,
+      "path": "select/03_愛のままを_Ayano_Kaneko.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛のままを",
+      "artist": "カネコアヤノ",
+      "has_synced": true,
+      "path": "select/04_愛のままを_カネコアヤノ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "愛のままを",
+      "artist": "カネコアヤノ",
+      "has_synced": false,
+      "path": "select/05_愛のままを_カネコアヤノ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛のままを",
+      "artist": "カネコアヤノ",
+      "has_synced": false,
+      "path": "select/pl_01_愛のままを_カネコアヤノ.txt"
+    }
+  ]
+}
